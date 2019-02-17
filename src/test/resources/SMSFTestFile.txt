@@ -1,0 +1,3 @@
+100 10 15%
+Jack 10% true
+Linda 50% false

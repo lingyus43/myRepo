@@ -1,0 +1,4 @@
+100, 10, 10%
+Jack, 60%, false
+Rose, 30%, false
+Ruth, 10%, true

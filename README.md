@@ -35,10 +35,12 @@ To run the program, please download the project to any directory. Then open term
 ````
 cd d/java/smsf
 ````
+
 And type the following to run the program
 ````
 ./run-smsf.sh
 ````
+Or you can just use your own IDE to open this project, and run the main method in SmsfApplication class
 
 Then the output will be printed into console
 ````
